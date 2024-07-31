@@ -1,0 +1,38 @@
+body
+{
+    background-color:black
+}
+.login{
+margin-left: 50%;
+color: rgb(0, 0, 0);
+background-color: aliceblue;
+height: 200px;
+width: 260px;
+padding-top: 25px;
+padding-bottom: 25px;
+border:10px solid rgb(127, 176, 192);
+padding: 50px 20px 30px 20px ;
+border-radius: 10%
+
+
+
+}
+.header img {
+    float: left;
+    width: 250px;
+    height: 100px;
+    background: #555;
+}
+.header h1 {
+    position: relative;
+    top: 18px;
+    text-align: center;
+    color: aliceblue;
+    font-size: xx-large;   
+}
+.a{
+    color: blue;
+    background-color: aqua;
+    border-radius: 15%;
+}
+
